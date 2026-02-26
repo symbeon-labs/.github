@@ -1,5 +1,7 @@
 # Symbeon Labs: The Sovereign Agent Internet 🏛️📡🌌
 
+![Symbeon Labs Sovereign Nexus](profile/assets/banner.png)
+
 > *"A autoridade sobre o dado é a base da liberdade sistêmica e do valor agêntico."*
 
 Bem-vindo ao canal oficial de infraestrutura da **Symbeon Labs**. Desenvolvemos as primitivas econômicas e cognitivas para a **Internet dos Agentes**.
