@@ -1,7 +1,7 @@
 # SYMBEON LABS: AUTONOMOUS INFRASTRUCTURE PROTOCOL
 
 <div align="center">
-  <img src="profile/assets/banner.png" alt="Symbeon Labs Sovereign Nexus" width="100%">
+  <img src="assets/banner.png" alt="Symbeon Labs Sovereign Nexus" width="100%">
 </div>
 
 > "Architecting the intersection of Sovereign Intelligence and Verifiable Data."
