@@ -1,35 +1,33 @@
-# Symbeon Labs: Infrastructure for the Agentic Economy 🏛️📡🌌
+# Symbeon Labs: Infrastructure for the Autonomous Future 🏛️📡🌌
 
 ![Symbeon Labs Sovereign Nexus](profile/assets/banner.png)
 
-> *"Developing the decentralized protocols and cognitive frameworks that enable true agential autonomy."*
+> *"Architecting the decentralized protocols and cognitive frameworks that enable true agential autonomy."*
 
-**Symbeon Labs** is a research and development organization specializing in high-integrity infrastructure for autonomous agents. We build the primitive layers for a future where data ownership and decentralized execution are the standards of intelligence.
-
----
-
-## 🏗️ The Nexus Framework
-
-Our development ecosystem focuses on the convergence of decentralized economics and autonomous reasoning:
-
-### 🏙️ L2: Economic Discovery & Settlement
-- **[URTN Protocol](https://github.com/symbeon-labs/urtn)**: A universal standard for agential resource tokenization and fractional value exchange.
-- **Agentic Payments (x402)**: Scalable settlement layers for real-time micropayments between autonomous entities.
-
-### 🧬 L1: Cognitive Integrity
-- **Sovereign Intelligence Protocols**: Frameworks for self-governing agents with independent context management and verifiable identity.
-- **[Sentinel Interface](https://github.com/symbeon-labs/sentinel-interface)**: Specialized auditing and governance tools for high-precision agential tasks.
-
-### ⚙️ L0: High-Performance Runtime
-- **Privacy-Preserving Execution**: Optimized local runtimes for ARM64 and edge-computing environments, ensuring compute performance without compromising data sovereignty.
+**Symbeon Labs** is a research and development organization specializing in high-integrity infrastructure for the **Agentic Economy**. We build the foundational layers for a future where sovereign intelligence, data ownership, and decentralized execution are the standards of progress.
 
 ---
 
-## 🤝 Participation
-We contribute to global open-source standards to accelerate the maturity of decentralized AI ecosystems.
+## 🏗️ The Nexus Ecosystem
 
-- **Standardization**: Proponents of open agential communication and payment protocols.
-- **Interoperability**: Building the bridges between localized intelligence and decentralized networks.
+Our development landscape is structured around the convergence of decentralized economics and autonomous reasoning:
+
+### 🧠 Sovereign Intelligence
+We develop self-governing AI systems designed for high-precision tasks and cognitive autonomy. Our research focuses on local contextual memory, verifiable identity, and agential governance frameworks that operate independently of centralized providers.
+
+### 🏙️ Decentralized Economic Protocols
+We specialize in universal standards for agential value exchange, including the **[URTN Protocol](https://github.com/symbeon-labs/urtn)** (Universal Resource Tokenization Network). Our work enables autonomous entities to manage resources, fractional ownership, and real-time economic settlement.
+
+### ⚙️ High-Performance Agential Runtimes
+Symbeon Labs engineers specialized execution environments optimized for edge-computing and ARM64 architectures. These runtimes prioritize privacy-preserving execution and low-latency performance for next-generation sovereign agents.
+
+---
+
+## 🤝 Participation & Standards
+We actively contribute to and integrate with emerging global standards to accelerate the maturity of the autonomous agent ecosystem.
+
+- **Economic Interoperability**: Implementing and supporting decentralized payment and resource allocation standards.
+- **Cognitive Frameworks**: Building the bridges between localized agential intelligence and global decentralized networks.
 
 ---
 **Symbeon Labs // Autarchy. Sovereignty. Truth.**
