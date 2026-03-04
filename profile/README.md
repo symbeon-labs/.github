@@ -53,6 +53,10 @@ Symbeon Labs actively participates in the definition of emerging standards for t
 - **Oracle-Integrated Runtimes**: Bridging machine-native execution with high-integrity external data.
 - **Interoperable Tokenomics**: Utilizing CCIP and URTN for friction-less agential trade.
 
+
+<!-- START_METRICS -->
+<!-- END_METRICS -->
+
 ---
 <div align="center">
   AUTARCHY | SOVEREIGNTY | TRUTH | INTELLECTUAL INTEGRITY

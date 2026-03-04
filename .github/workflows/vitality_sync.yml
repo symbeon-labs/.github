@@ -1,0 +1,36 @@
+name: Organization Vitality Sync
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Daily at midnight
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  sync-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch repository metrics
+        id: metrics
+        run: |
+          node .github/scripts/update_metrics.js
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "Symbeon Vitality Bot"
+          git config --global user.email "bot@symbeon.io"
+          git add profile/README.md
+          git commit -m "docs: auto-update organization metrics [vitality-sync]" || echo "No changes to commit"
+          git push
