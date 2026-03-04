@@ -1,46 +1,49 @@
-# SYMBEON LABS: AUTONOMOUS INFRASTRUCTURE PROTOCOL
+# SYMBEON LABS: SOVEREIGN AUTONOMOUS SYSTEMS LABORATORY
 
 <div align="center">
   <img src="assets/banner.png" alt="Symbeon Labs Sovereign Nexus" width="100%">
 </div>
 
-> "Architecting the intersection of Sovereign Intelligence and Verifiable Data."
+> "Architecting the convergence of High-Integrity Intelligence and Decentralized Verification Protocols."
 
-Symbeon Labs is a research and development organization specializing in high-integrity infrastructure for the agentic economy. We develop foundational layers connecting sovereign, machine-native intelligence with global decentralized verification.
+Symbeon Labs operates as a specialized research and development entity dedicated to the advancement of sovereign agential infrastructure. Our mission is to engineer the foundational logic and settlement layers required for a post-human, autonomous economy where data integrity and cognitive sovereignty are paramount.
 
 ---
 
-## SYSTEMIC PILLARS
+## ARCHITECTURAL PILLARS
 
-Our development landscape focuses on the convergence of AI autonomy and Web3 verifiability:
+The laboratory focus is divided into three primary research areas:
 
-### Verifiable Sovereign Intelligence
-Development of self-governing AI systems prioritizing cognitive autonomy and local privacy.
-- **[Suda Skills](https://github.com/symbeon-labs/suda-skills)**: Agential capability orchestration and skill-mapping.
-- **[SEVE Framework](https://github.com/symbeon-labs/seve-framework)**: Sovereign Ethics and Validation Engine for agential governance.
+### Sovereign Intelligence & Multi-Agent Systems (MAS)
+Engineering autonomous entities capable of complex orchestration while maintaining local data sovereignty.
+- **[Suda Skills](https://github.com/symbeon-labs/suda-skills)**: A decentralized framework for agential skill-mapping and capability discovery.
+- **[SEVE Framework](https://github.com/symbeon-labs/seve-framework)**: Sovereign Ethics and Validation Engine; a protocol for aligning agential logic with verifiable ethical constraints.
+- **[MAS Core](https://github.com/symbeon-labs/mas-core)**: The central orchestration engine for multi-agent system coordination and high-concurrency agential tasks.
 
-### Decentralized Economic Protocols
-Research and implementation of universal standards for agential value exchange and asset validation.
-- **[Symbeon Ecosystem](https://github.com/symbeon-labs/symbeon-ecosystem)**: Core infrastructure for agential economic interaction.
-- **[URTN Protocol](https://github.com/symbeon-labs/urtn)**: Universal Resource Tokenization Network for fractional asset settlement.
+### Decentralized Economic Protocols & RWA
+Developing the financial plumbing for machine-native trade and real-world asset (RWA) validation.
+- **[URTN Protocol](https://github.com/symbeon-labs/urtn)**: Universal Resource Tokenization Network; a settlement layer for fractional asset ownership and agential resource management.
+- **[Symbeon Ecosystem](https://github.com/symbeon-labs/symbeon-ecosystem)**: The integrated infrastructure for agential economic interaction and reputation scaling.
 
 ### Cross-Chain Agential Settlement
-Utilizing Chainlink CCIP, our architecture enables autonomous entities to operate across multiple networks, ensuring secure transfer of agential intent and economic value.
+Research into secure agential migration and value transfer across disparate networks utilizing Chainlink CCIP (Cross-Chain Interoperability Protocol).
 
 ---
 
-## FEATURED IMPLEMENTATION: GREENPROOF
-**[GreenProof Platform](https://github.com/symbeon-labs/greenproof-platform)** serves as the primary application of the Symbeon Nexus, bridging environmental metrics with on-chain accountability. Utilizing Chainlink Proof of Reserve (PoR) and verifiable data feeds, GreenProof converts abstract ESG impact into liquid, trusted digital assets.
+## FLAGSHIP RESEARCH: GREENPROOF PROTOCOL
+**[GreenProof Platform](https://github.com/symbeon-labs/greenproof-platform)** is a native protocol developed by Symbeon Labs to solve the "Trust Gap" in environmental data. 
+
+GreenProof serves as a bridge between high-integrity ESG sensors and on-chain accountability. By integrating **Chainlink Proof of Reserve (PoR)** and verifiable data feeds, the protocol converts verifiable environmental impact into liquid, trusted digital assets. GreenProof represents our commitment to applying sovereign intelligence to global ecological challenges.
 
 ---
 
-## GLOBAL STANDARDS
-Participation in emerging global standards to accelerate the maturity of the autonomous agent ecosystem:
+## GLOBAL STANDARDS & INTEROPERABILITY
+Symbeon Labs actively participates in the definition of emerging standards for the autonomous agent era:
 
-- Oracle-Integrated Runtimes: Connecting machine-native execution with trusted data feeds.
-- Interoperable Tokenomics: Leveraging CCIP and URTN for friction-less agential trade.
+- **Oracle-Integrated Runtimes**: Bridging machine-native execution with high-integrity external data.
+- **Interoperable Tokenomics**: Utilizing CCIP and URTN to enable friction-less trade between autonomous entities.
 
 ---
 <div align="center">
-  AUTARCHY | SOVEREIGNTY | TRUTH
+  AUTARCHY | SOVEREIGNTY | TRUTH | INTELLECTUAL INTEGRITY
 </div>
