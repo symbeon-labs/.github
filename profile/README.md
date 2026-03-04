@@ -4,9 +4,9 @@
   <img src="assets/banner.png" alt="Symbeon Labs Sovereign Nexus" width="100%">
 </div>
 
-> "Architecting the convergence of High-Integrity Intelligence and Decentralized Verification Protocols."
+> "Engineering the Sovereign Symbiosis between Human Agency and Machine Intelligence."
 
-Symbeon Labs operates as a specialized research and development entity dedicated to the advancement of sovereign agential infrastructure. Our mission is to engineer the foundational logic and settlement layers required for a post-human, autonomous economy where data integrity and cognitive sovereignty are paramount.
+Symbeon Labs operates as a specialized research entity dedicated to the co-evolution of biological and digital agency. Our mission is to architect the high-integrity infrastructure where humans and autonomous entities interact in absolute technical and fiduciarian alignment—securing cognitive sovereignty across the post-human landscape.
 
 ---
 
