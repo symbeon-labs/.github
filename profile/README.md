@@ -1,45 +1,45 @@
-# Symbeon Labs: The Sovereign Agent Internet 🏛️📡🌌
+# Symbeon Labs: Engineering Agential Sovereignty 🏛️📡🌌
 
 ![Symbeon Labs Sovereign Nexus](profile/assets/banner.png)
 
-> *"A autoridade sobre o dado é a base da liberdade sistêmica e do valor agêntico."*
+> *"Ownership over data is the foundation of agential freedom and systemic value."*
 
-Bem-vindo ao canal oficial de infraestrutura da **Symbeon Labs**. Desenvolvemos as primitivas econômicas e cognitivas para a **Internet dos Agentes**.
-
----
-
-## 🌩️ Nossa Filosofia: Autarquia Digital
-Em um mundo de nuvens centralizadas, a Symbeon Labs constrói o **Monólito Nomádico**. Nossos sistemas são projetados para rodar localmente, com soberania absoluta do usuário, utilizando hardware portátil e criptografia blindada.
+Welcome to the official infrastructure hub of **Symbeon Labs**. We develop the economic and cognitive primitives for the **Internet of Agents**.
 
 ---
 
-## 🏗️ Arquitetura em Camadas (Nexus Architecture)
-
-Nossos repositórios são organizados conforme a densidade da verdade e execução:
-
-### 🏛️ L2: Camada de Valor (Economy)
-- **[SkillVault](https://github.com/symbeon-labs/skillvault)**: O primeiro registro soberano de habilidades para agentes. Monetização via x402 e `$SURGE`.
-- **URTN-Spec**: Protocolo universal de tokenização de valor agêntico.
-
-### 🧬 L1: Camada de Entidade (Intelligence)
-- **[Sentinel Interface](https://github.com/symbeon-labs/sentinel-interface)**: Interface de inteligência especializada em integridade fiscal e governança de skills.
-- **AIDEN-EON Matriz**: O núcleo ancestral de autoprogramação e evolução.
-
-### ⚙️ L0: Camada de Núcleo (Runtime)
-- **OpenClaw-Sovereign**: Extensões e plugins para o runtime OpenClaw focados em privacidade e execução local.
+## 🌩️ Our Vision: Digital Autarchy
+In a world of centralized clouds, Symbeon Labs engineers the **Nomadic Monolith**. Our systems are designed for absolute local sovereignty, leveraging edge-computing performance, high-grade encryption, and user-owned infrastructure.
 
 ---
 
-## 🤝 Colaboração & Ecossistema
-Estamos integrando ativamente nossas primitivas ao ecossistema **OpenClaw** e ao protocolo **SURGE**. Se você é um desenvolvedor de agentes, a Symbeon Labs provê as ferramentas para transformar seus scripts em **Ativos Soberanos**.
+## 🏗️ The Nexus Architecture
 
-- **OpenClaw Collaboration**: Somos proponentes do padrão x402 para micropagamentos entre agentes.
-- **TrinityOS Integration**: Nossas raízes profundas estão no ecossistema TrinityOS.
+Our ecosystem is structured around three layers of agential integrity and economic settlement:
+
+### 🏙️ L2: Value & Settlement (Economics)
+- **[URTN Protocol](https://github.com/symbeon-labs/urtn)**: The **Universal Resource Tokenization Network**. Our primary framework for managing agential value, fractional ownership, and resource settlement.
+- **[SkillVault](https://github.com/symbeon-labs/skillvault)**: A sovereign registry for agent capabilities, enabling monetization through **x402 (Agentic Payments)** and decentralized settlement.
+
+### 🧬 L1: Agential Intelligence (Cognitive)
+- **[Sentinel Interface](https://github.com/symbeon-labs/sentinel-interface)**: Professional-grade intelligence interface focused on fiscal integrity, skill governance, and autonomous auditing.
+- **Cognitive Autonomy Research**: Investigating the boundaries of contextual memory and self-governing logic within multi-agent environments.
+
+### ⚙️ L0: Sovereign Runtime (Execution)
+- **Sovereign Runtime Extensions**: Specialized plugins and optimizations for local runtime environments (including ARM64/Apple Silicon) focused on privacy, low-latency execution, and hardware-bound security.
 
 ---
 
-## 🦅 Segurança & Soberania
-Pela natureza de nossos motores, segredos criptográficos e Truth-Sets operam em regime **Nomádico/Offline**. O que você vê aqui são as interfaces, especificações e SDKs públicos. O "Coração da Verdade" permanece sob o comando do Arquiteto no Vault físico.
+## 🤝 Ecosystem & Partnerships
+Symbeon Labs actively contributes to and integrates with open-source standards to accelerate the adoption of agential economics.
+
+- **x402 Protocol**: We are core proponents of the x402 standard for real-time micropayments between autonomous entities.
+- **Open-Source Contribution**: We develop public SDKs and architectural specifications to ensure interoperability between sovereign agents and established AI runtimes.
+
+---
+
+## 🦅 Security & Integrity
+All Symbeon-supported engines operate under a **Nomadic/Offline-First** regime. This repository serves as the public gateway for our interfaces, SDKs, and standards. Core agential logic and sensitive data remain exclusively within the Architect's controlled hardware.
 
 ---
 **Symbeon Labs // Autarchy. Sovereignty. Truth.**
