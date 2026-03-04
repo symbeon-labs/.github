@@ -33,7 +33,17 @@ Research into secure agential migration and value transfer across disparate netw
 ## FLAGSHIP RESEARCH: GREENPROOF PROTOCOL
 **[GreenProof Platform](https://github.com/symbeon-labs/greenproof-platform)** is a native protocol developed by Symbeon Labs to solve the "Trust Gap" in environmental data. 
 
-GreenProof serves as a bridge between high-integrity ESG sensors and on-chain accountability. By integrating **Chainlink Proof of Reserve (PoR)** and verifiable data feeds, the protocol converts verifiable environmental impact into liquid, trusted digital assets. GreenProof represents our commitment to applying sovereign intelligence to global ecological challenges.
+GreenProof serves as a bridge between high-integrity ESG sensors and on-chain accountability. By integrating **Chainlink Proof of Reserve (PoR)** and verifiable data feeds, the protocol converts verifiable environmental impact into liquid, trusted digital assets.
+
+---
+
+## RESEARCH CASE STUDIES & SPECIALIZED BRANCHES
+Symbeon Labs maintains high-integrity research initiatives focused on niche ecosystem challenges, often operating in a specialized or stealth capacity before public deployment:
+
+### [Specialized Branch] GhostFund Protocol: Autonomous DeSci Governance
+GhostFund serves as the laboratorial arm for **Decentralized Science (DeSci)** and autonomous fiduciary orchestration.
+- **Core Intent**: Engineering a mechanism where autonomous agents can identify research grants, match institutional requirements, and secure funding for specialized R&D cycles without human intervention.
+- **Strategic Function**: Bridging the gap between raw agential intelligence and institutional funding protocols through verifiable intent matching.
 
 ---
 
@@ -41,7 +51,7 @@ GreenProof serves as a bridge between high-integrity ESG sensors and on-chain ac
 Symbeon Labs actively participates in the definition of emerging standards for the autonomous agent era:
 
 - **Oracle-Integrated Runtimes**: Bridging machine-native execution with high-integrity external data.
-- **Interoperable Tokenomics**: Utilizing CCIP and URTN to enable friction-less trade between autonomous entities.
+- **Interoperable Tokenomics**: Utilizing CCIP and URTN for friction-less agential trade.
 
 ---
 <div align="center">
