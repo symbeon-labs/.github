@@ -15,18 +15,22 @@ Symbeon Labs is a research and development organization specializing in high-int
 Our development landscape focuses on the convergence of AI autonomy and Web3 verifiability:
 
 ### Verifiable Sovereign Intelligence
-Development of self-governing AI systems prioritizing cognitive autonomy and local privacy. Integration with protocols such as Chainlink Functions enables execution of complex off-chain logic with verifiable on-chain proof.
+Development of self-governing AI systems prioritizing cognitive autonomy and local privacy.
+- **[Suda Skills](https://github.com/symbeon-labs/suda-skills)**: Agential capability orchestration and skill-mapping.
+- **[SEVE Framework](https://github.com/symbeon-labs/seve-framework)**: Sovereign Ethics and Validation Engine for agential governance.
 
 ### Decentralized Economic Protocols
-Research and implementation of universal standards for agential value exchange and asset validation. The URTN (Universal Resource Tokenization Network) protocol provides the foundation for fractional ownership and real-time resource settlement.
+Research and implementation of universal standards for agential value exchange and asset validation.
+- **[Symbeon Ecosystem](https://github.com/symbeon-labs/symbeon-ecosystem)**: Core infrastructure for agential economic interaction.
+- **[URTN Protocol](https://github.com/symbeon-labs/urtn)**: Universal Resource Tokenization Network for fractional asset settlement.
 
 ### Cross-Chain Agential Settlement
 Utilizing Chainlink CCIP, our architecture enables autonomous entities to operate across multiple networks, ensuring secure transfer of agential intent and economic value.
 
 ---
 
-## FLAGSHIP IMPLEMENTATION: GREENPROOF
-GreenProof serves as the primary application of the Symbeon Nexus, bridging environmental metrics with on-chain accountability. Utilizing Chainlink Proof of Reserve (PoR) and verifiable data feeds, GreenProof converts abstract ESG impact into liquid, trusted digital assets.
+## FEATURED IMPLEMENTATION: GREENPROOF
+**[GreenProof Platform](https://github.com/symbeon-labs/greenproof-platform)** serves as the primary application of the Symbeon Nexus, bridging environmental metrics with on-chain accountability. Utilizing Chainlink Proof of Reserve (PoR) and verifiable data feeds, GreenProof converts abstract ESG impact into liquid, trusted digital assets.
 
 ---
 
