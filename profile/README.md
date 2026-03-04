@@ -41,9 +41,9 @@ GreenProof serves as a bridge between high-integrity ESG sensors and on-chain ac
 Symbeon Labs maintains high-integrity research initiatives focused on niche ecosystem challenges, often operating in a specialized or stealth capacity before public deployment:
 
 ### [Specialized Branch] GhostFund Protocol: Autonomous DeSci Governance
-GhostFund serves as the laboratorial arm for **Decentralized Science (DeSci)** and autonomous fiduciary orchestration.
-- **Core Intent**: Engineering a mechanism where autonomous agents can identify research grants, match institutional requirements, and secure funding for specialized R&D cycles without human intervention.
-- **Strategic Function**: Bridging the gap between raw agential intelligence and institutional funding protocols through verifiable intent matching.
+GhostFund serves as the laboratorial arm for **Decentralized Science (DeSci)** and autonomous fiduciary orchestration, acting as a bridge between biological and machine intelligence.
+- **Core Intent**: Engineering a mechanism where both human researchers and autonomous agents can identify research grants, match institutional requirements, and secure funding for specialized R&D cycles.
+- **Sovereign Collaboration**: Bridging the gap between raw intelligence—whether human or agential—and institutional funding protocols through verifiable intent matching and automated fiduciary management.
 
 ---
 
