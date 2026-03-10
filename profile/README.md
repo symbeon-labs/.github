@@ -59,6 +59,7 @@ Symbeon Labs actively participates in the definition of emerging standards for t
 
 
 
+
 <!-- START_METRICS -->
 ### 📊 LABORATORY VITALITY DATA
 | STATISTIC | VALUE |
@@ -69,8 +70,8 @@ Symbeon Labs actively participates in the definition of emerging standards for t
 #### TOP RESEARCH MODULES
 | REPOSITORY | STARS | FORKS |
 | :--- | :--- | :--- |
-| [greenproof-platform](https://github.com/symbeon-labs/greenproof-platform) | 0 | 0 |
 | [.github](https://github.com/symbeon-labs/.github) | 0 | 0 |
+| [greenproof-platform](https://github.com/symbeon-labs/greenproof-platform) | 0 | 0 |
 | [suda-skills](https://github.com/symbeon-labs/suda-skills) | 0 | 0 |
 | [seve-framework](https://github.com/symbeon-labs/seve-framework) | 0 | 0 |
 | [mas-core](https://github.com/symbeon-labs/mas-core) | 0 | 0 |
