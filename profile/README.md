@@ -62,21 +62,22 @@ Symbeon Labs actively participates in the definition of emerging standards for t
 
 
 
+
 <!-- START_METRICS -->
 ### 📊 LABORATORY VITALITY DATA
 | STATISTIC | VALUE |
 | :--- | :--- |
-| **Active Protocols** | 7 |
+| **Active Protocols** | 9 |
 | **Total Ecosystem Stars** | 0 |
 
 #### TOP RESEARCH MODULES
 | REPOSITORY | STARS | FORKS |
 | :--- | :--- | :--- |
 | [greenproof-platform](https://github.com/symbeon-labs/greenproof-platform) | 0 | 0 |
-| [seve-framework](https://github.com/symbeon-labs/seve-framework) | 0 | 0 |
+| [universal-event-attestation-protocol](https://github.com/symbeon-labs/universal-event-attestation-protocol) | 0 | 0 |
 | [.github](https://github.com/symbeon-labs/.github) | 0 | 0 |
-| [suda-skills](https://github.com/symbeon-labs/suda-skills) | 0 | 0 |
-| [mas-core](https://github.com/symbeon-labs/mas-core) | 0 | 0 |
+| [seve-framework](https://github.com/symbeon-labs/seve-framework) | 0 | 0 |
+| [agent_nursery_framework](https://github.com/symbeon-labs/agent_nursery_framework) | 0 | 0 |
 <!-- END_METRICS -->
 
 ---
