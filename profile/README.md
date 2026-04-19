@@ -99,6 +99,7 @@ Symbeon Labs actively participates in the definition of emerging standards for t
 
 
 
+
 <!-- START_METRICS -->
 ### 📊 LABORATORY VITALITY DATA
 | STATISTIC | VALUE |
@@ -110,8 +111,8 @@ Symbeon Labs actively participates in the definition of emerging standards for t
 | REPOSITORY | STARS | FORKS |
 | :--- | :--- | :--- |
 | [synphytica-core](https://github.com/symbeon-labs/synphytica-core) | 1 | 0 |
-| [veil-core](https://github.com/symbeon-labs/veil-core) | 0 | 0 |
 | [.github](https://github.com/symbeon-labs/.github) | 0 | 0 |
+| [veil-core](https://github.com/symbeon-labs/veil-core) | 0 | 0 |
 | [greenproof-platform](https://github.com/symbeon-labs/greenproof-platform) | 0 | 0 |
 | [suda-skills](https://github.com/symbeon-labs/suda-skills) | 0 | 0 |
 <!-- END_METRICS -->
