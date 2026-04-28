@@ -108,11 +108,12 @@ Symbeon Labs actively participates in the definition of emerging standards for t
 
 
 
+
 <!-- START_METRICS -->
 ### 📊 LABORATORY VITALITY DATA
 | STATISTIC | VALUE |
 | :--- | :--- |
-| **Active Protocols** | 10 |
+| **Active Protocols** | 11 |
 | **Total Ecosystem Stars** | 1 |
 
 #### TOP RESEARCH MODULES
@@ -120,9 +121,9 @@ Symbeon Labs actively participates in the definition of emerging standards for t
 | :--- | :--- | :--- |
 | [synphytica-core](https://github.com/symbeon-labs/synphytica-core) | 1 | 0 |
 | [.github](https://github.com/symbeon-labs/.github) | 0 | 0 |
+| [aoa-core](https://github.com/symbeon-labs/aoa-core) | 0 | 0 |
 | [seve-framework](https://github.com/symbeon-labs/seve-framework) | 0 | 0 |
 | [veil-core](https://github.com/symbeon-labs/veil-core) | 0 | 0 |
-| [greenproof-platform](https://github.com/symbeon-labs/greenproof-platform) | 0 | 0 |
 <!-- END_METRICS -->
 
 ---
