@@ -1,288 +1,130 @@
-# SYMBEON LABS: SOVEREIGN AUTONOMOUS SYSTEMS LABORATORY
+# SYMBEON LABS
+
+## Applied Research for Computable Organizations
 
 <div align="center">
-  <img src="assets/banner.png" alt="Symbeon Labs Sovereign Nexus" width="100%">
+  <img src="assets/banner.png" alt="Symbeon Labs" width="100%">
 </div>
 
-> "Engineering the Sovereign Symbiosis between Human Agency and Machine Intelligence."
+> We investigate real operations, turn evidence into operational intelligence, and build the infrastructure that makes organizations computable.
 
-Symbeon Labs operates as a specialized research entity dedicated to the co-evolution of biological and digital agency. Our mission is to architect the high-integrity infrastructure where humans and autonomous entities interact in absolute technical and fiduciarian alignment—securing cognitive sovereignty across the post-human landscape.
+Symbeon Labs is an applied research and engineering laboratory focused on understanding how organizations operate and building systems that improve how they observe, decide, execute, and learn.
 
----
+Our work sits at the intersection of:
 
-## ARCHITECTURAL PILLARS
-
-The laboratory focus is divided into three primary research areas:
-
-### Sovereign Intelligence & Multi-Agent Systems (MAS)
-Engineering autonomous entities capable of complex orchestration while maintaining local data sovereignty.
-- **[Suda Skills](https://github.com/symbeon-labs/suda-skills)**: A decentralized framework for agential skill-mapping and capability discovery.
-- **[SEVE Framework](https://github.com/symbeon-labs/seve-framework)**: Sovereign Ethics and Validation Engine; a protocol for aligning agential logic with verifiable ethical constraints.
-- **[MAS Core](https://github.com/symbeon-labs/mas-core)**: The central orchestration engine for multi-agent system coordination and high-concurrency agential tasks.
-
-### Decentralized Economic Protocols & RWA
-Developing the financial plumbing for machine-native trade and real-world asset (RWA) validation.
-- **[URTN Protocol](https://github.com/symbeon-labs/urtn)**: Universal Resource Tokenization Network; a settlement layer for fractional asset ownership and agential resource management.
-- **[Symbeon Ecosystem](https://github.com/symbeon-labs/symbeon-ecosystem)**: The integrated infrastructure for agential economic interaction and reputation scaling.
-
-### Cross-Chain Agential Settlement
-Research into secure agential migration and value transfer across disparate networks utilizing Chainlink CCIP (Cross-Chain Interoperability Protocol).
+- Artificial Intelligence
+- Operational Intelligence
+- Data & Analytics
+- Software Infrastructure
+- Agentic Systems
+- Computational Governance
+- Verifiable Evidence
 
 ---
 
-## FLAGSHIP RESEARCH: GREENPROOF PROTOCOL
-**[GreenProof Platform](https://github.com/symbeon-labs/greenproof-platform)** is a native protocol developed by Symbeon Labs to solve the "Trust Gap" in environmental data. 
+## OUR APPROACH
 
-GreenProof serves as a bridge between high-integrity ESG sensors and on-chain accountability. By integrating **Chainlink Proof of Reserve (PoR)** and verifiable data feeds, the protocol converts verifiable environmental impact into liquid, trusted digital assets.
+We do not begin with a technology.
 
----
+We begin with reality.
 
-## RESEARCH CASE STUDIES & SPECIALIZED BRANCHES
-Symbeon Labs maintains high-integrity research initiatives focused on niche ecosystem challenges, often operating in a specialized or stealth capacity before public deployment:
+**Observe → Map → Evidence → Model → Intervene → Measure → Learn**
 
-### [Specialized Branch] GhostFund Protocol: Autonomous DeSci Governance
-GhostFund serves as the laboratorial arm for **Decentralized Science (DeSci)** and autonomous fiduciary orchestration, acting as a bridge between biological and machine intelligence.
-- **Core Intent**: Engineering a mechanism where both human researchers and autonomous agents can identify research grants, match institutional requirements, and secure funding for specialized R&D cycles.
-- **Sovereign Collaboration**: Bridging the gap between raw intelligence—whether human or agential—and institutional funding protocols through verifiable intent matching and automated fiduciary management.
+We investigate operational environments, map their processes and information, collect evidence, build models of how they work, and develop the appropriate technical interventions.
+
+**The technology comes after understanding the system.**
 
 ---
 
-## GLOBAL STANDARDS & INTEROPERABILITY
-Symbeon Labs actively participates in the definition of emerging standards for the autonomous agent era:
+## MAKING ORGANIZATIONS COMPUTABLE
 
-- **Oracle-Integrated Runtimes**: Bridging machine-native execution with high-integrity external data.
-- **Interoperable Tokenomics**: Utilizing CCIP and URTN for friction-less agential trade.
+Organizations are complex systems composed of:
 
+- decisions
+- processes
+- people
+- data
+- dependencies
+- policies
+- evidence
+- knowledge
+- actions
 
+Our research explores how these elements can be represented computationally, connected through evidence, and transformed into systems capable of supporting better execution, governance, and learning.
 
+The goal is not simply to automate organizations.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- START_METRICS -->
-### 📊 LABORATORY VITALITY DATA
-| STATISTIC | VALUE |
-| :--- | :--- |
-| **Active Protocols** | 14 |
-| **Total Ecosystem Stars** | 2 |
-
-#### TOP RESEARCH MODULES
-| REPOSITORY | STARS | FORKS |
-| :--- | :--- | :--- |
-| [suda-skills](https://github.com/symbeon-labs/suda-skills) | 1 | 0 |
-| [synphytica-core](https://github.com/symbeon-labs/synphytica-core) | 1 | 0 |
-| [3l0-vision](https://github.com/symbeon-labs/3l0-vision) | 0 | 0 |
-| [.github](https://github.com/symbeon-labs/.github) | 0 | 0 |
-| [symbeon-mission-control](https://github.com/symbeon-labs/symbeon-mission-control) | 0 | 0 |
-<!-- END_METRICS -->
+It is to make their operations **observable, traceable, understandable, and increasingly computable.**
 
 ---
+
+## FROM RESEARCH TO INFRASTRUCTURE
+
+Our work follows a continuous cycle:
+
+**Reality → Evidence → Intelligence → Intervention → Learning**
+
+Research produces models.
+
+Models become infrastructure.
+
+Infrastructure enables new forms of operation.
+
+Operations generate new evidence.
+
+That evidence feeds the next cycle of research.
+
+This creates a feedback loop between **investigation, engineering, and real-world operation.**
+
+---
+
+## RESEARCH AREAS
+
+### Operational Intelligence
+Understanding how real operations work and transforming operational data and evidence into actionable intelligence.
+
+### Artificial Intelligence & Agents
+Developing intelligent systems capable of reasoning, acting, coordinating, and operating within structured environments.
+
+### Computational Governance
+Exploring how organizational rules, decisions, dependencies, and evidence can become explicit and machine-readable.
+
+### Verifiable Systems
+Building mechanisms for evidence, provenance, traceability, and verifiable operational state.
+
+### Organizational Computing
+Studying organizations as computational systems that can be modeled, observed, and continuously improved.
+
+---
+
+## OUR PRINCIPLE
+
+> **Evidence before intervention.**
+
+Understand before proposing.
+
+Investigate before developing.
+
+Measure before concluding.
+
+Learn before scaling.
+
+---
+
+## THE LABORATORY
+
+Symbeon Labs is not defined by a single product or technology.
+
+It is defined by a method:
+
+**Understand reality.**  
+**Model it.**  
+**Build what matters.**  
+**Measure the result.**  
+**Learn from the system.**
+
+---
+
 <div align="center">
-  AUTARCHY | SOVEREIGNTY | TRUTH | INTELLECTUAL INTEGRITY
+  <sub>Applied research. Operational intelligence. Computable organizations.</sub>
 </div>
