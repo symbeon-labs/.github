@@ -264,11 +264,12 @@ Symbeon Labs actively participates in the definition of emerging standards for t
 
 
 
+
 <!-- START_METRICS -->
 ### 📊 LABORATORY VITALITY DATA
 | STATISTIC | VALUE |
 | :--- | :--- |
-| **Active Protocols** | 13 |
+| **Active Protocols** | 14 |
 | **Total Ecosystem Stars** | 2 |
 
 #### TOP RESEARCH MODULES
@@ -276,9 +277,9 @@ Symbeon Labs actively participates in the definition of emerging standards for t
 | :--- | :--- | :--- |
 | [suda-skills](https://github.com/symbeon-labs/suda-skills) | 1 | 0 |
 | [synphytica-core](https://github.com/symbeon-labs/synphytica-core) | 1 | 0 |
+| [3l0-vision](https://github.com/symbeon-labs/3l0-vision) | 0 | 0 |
 | [.github](https://github.com/symbeon-labs/.github) | 0 | 0 |
 | [symbeon-mission-control](https://github.com/symbeon-labs/symbeon-mission-control) | 0 | 0 |
-| [mission-control-specification](https://github.com/symbeon-labs/mission-control-specification) | 0 | 0 |
 <!-- END_METRICS -->
 
 ---
